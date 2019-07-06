@@ -16,7 +16,6 @@ particlesJS('particles-js',
   {
     "particles": {
       "number": {
-        "value": 50,
         "value": 70,
         "density": {
           "enable": true,
@@ -24,10 +23,6 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#6f8cf7"
-      },
-      "shape": {
-        "type": "circle",
         "value": "#ff4949"
       },
       "shape": {

@@ -22,7 +22,6 @@
 }
 
 html {
-  background-color: #050505;
   background-color: #0c0c0c;
   height: 100%;
   user-select: none;
@@ -128,7 +127,6 @@ figure {
 #particles-js {
   width: 100%;
   height: 100%;
-  background-color: #050505;
   background-color: #0c0c0c;
   text-align: center;
 }
