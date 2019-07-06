@@ -105,7 +105,7 @@ figure {
 }
 
 .social li a:hover {
-  color: #ffffff;
+  color: #ff3270;
 }
 
 .social li a:hover, .social li a:active, .social li a:focus {
@@ -115,7 +115,7 @@ figure {
 
 /* Footer */
 #footer {
-  color: #777777;
+  color: #24003d;
   font-size: 14px;
   position: absolute;
   bottom: 0;
